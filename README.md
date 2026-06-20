@@ -8,7 +8,7 @@ networking and network security skills developed throughout my Cyber
 Security and Networking degree.
 
 ## Network Diagram
-*Diagram will be added upon completion*
+![Network Topology](diagrams/network-topology.png)
 
 ## Network Zones
 | Zone | Purpose |
